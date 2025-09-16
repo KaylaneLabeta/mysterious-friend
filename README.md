@@ -14,7 +14,7 @@ Este projeto é uma aplicação simples em JavaScript para sortear nomes para um
 
 ## 🚀 Como Usar
 
-1.  **Clone o repositório:** `[git clone [LINK_DO_SEU_REPOSITORIO]](https://github.com/KaylaneLabeta/mysterious-friend.git)`
+1.  **Clone o repositório:** `https://github.com/KaylaneLabeta/mysterious-friend.git`
 2.  **Abra o arquivo `index.html`** no seu navegador. 🌐
 
 Não precisa de nenhuma instalação adicional!
